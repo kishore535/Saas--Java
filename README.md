@@ -1,6 +1,5 @@
 ## Software as a Service: Google Cloud Vision API using Java
 
-# Saas--Java
 #Application
 Application Url: https://gaeproject-276401.appspot.com/
 About Application: Our application firstly asks user to upload an image on server. After uploading the image, Google Cloud Vision API is invoked for analysing the image to detect labels. And finally the results are returned in well formatted table containing detected labels of the image. Our application is basically divided into 3 parts: Frontend, GAE and Backend
